@@ -2,7 +2,7 @@ Package.describe({
   name: 'panphora:environment-template-helpers',
   version: '0.0.1',
   summary: 'Use template helpers to determine if you are in development or production',
-  git: '',
+  git: 'https://github.com/panphora/environment-template-helpers',
   documentation: 'README.md'
 });
 
